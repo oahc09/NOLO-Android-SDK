@@ -1,6 +1,6 @@
 # NOLO-android-sdk  
 
-- [Get Started](./Documents/SDK/Example) 
+- [Get Started](./Example) 
 
 - [API Support](https://github.com/LyrobotixNolo/NOLO-android-sdk/wiki)
 
