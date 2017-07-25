@@ -11,4 +11,6 @@ If you have problems,Check [FAQ](https://github.com/NOLOVR/NOLO-Android-SDK/issu
 
 Documentation for the API is available on the [Wiki](https://github.com/LyrobotixNolo/NOLO-android-sdk/wiki).
 
+Android_SDK_170724：  
+Colse all log in .so file.
 
