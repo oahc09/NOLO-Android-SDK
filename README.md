@@ -5,7 +5,9 @@ You can use this SDK to develop android applications that supports NOLO.
 
 [NOLO-C-Android-SDK](./NOLOVR/C)
 
-For first time users,get start with our test in [Nolo_Android_Demo_Java](./Examples).
+For first time users,see [here](./Docs/getStart/GetStart.md).
+
+You can also view open source code [Nolo_Android_Demo_Java](./Examples).
 
   
 If you have problems,Check [FAQ](https://github.com/NOLOVR/NOLO-Android-SDK/issues).  
