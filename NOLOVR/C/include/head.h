@@ -158,5 +158,5 @@ namespace NOLO
 	*【震动数据接口】
 	******************************************************************************
 	*/
-	NOLO_API bool _cdecl NoloDevice_sendData(int[] data, int len);
+	NOLO_API bool _cdecl NoloDevice_sendData(int data[], int len);
 }
