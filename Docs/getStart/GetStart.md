@@ -1,4 +1,4 @@
-# GetStart
+# Getting Started
 1.Create a new Android Studio project.
 <div ><img width = 600 height = 420 src="./Pic/createproject1.png"></div> 
 <div ><img width = 600 height = 420 src="./Pic/createproject2.png"></div> 
