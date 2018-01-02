@@ -11,9 +11,9 @@ You can use this SDK to develop android applications that supports NOLO.
 For first time users, see [here](./Docs/getStart/GetStart.md).
 
 
-## FAQ & Discussions  
+## Help & Discussions  
 
-For questions regarding NOLO Android SDK, check out [FAQ](https://github.com/NOLOVR/NOLO-Android-SDK/issues) page.  
+Get help and submit questions [here](https://github.com/NOLOVR/NOLO-Android-SDK/issues).  
 
 ## Additional information
 
